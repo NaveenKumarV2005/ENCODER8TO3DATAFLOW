@@ -41,6 +41,11 @@ Figure 02  Encoder 8 * 3
 /* write all the steps invloved */
 
 **PROGRAM**
+
+
+
+
+
 ![Screenshot 2024-04-03 210212](https://github.com/NaveenKumarV2005/ENCODER8TO3DATAFLOW/assets/151476286/9d29d01c-4a7a-4fb8-8fc8-e54ee71ce400)
 
 
