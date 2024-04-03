@@ -72,6 +72,9 @@ Figure 02  Encoder 8 * 3
 
 
 **RESULTS**
+
+
+
    implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
 
